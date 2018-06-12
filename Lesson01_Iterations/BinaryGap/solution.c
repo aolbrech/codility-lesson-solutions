@@ -4,6 +4,8 @@
 // Time Complexity: O(log(N))
 // Space Complexity: O(1)
 
+#include <stdio.h>
+
 int solution(int N) {
     int longestBinaryGap = 0;
     int currentBinaryGap = -1;
@@ -25,4 +27,12 @@ int solution(int N) {
     }
     
     return longestBinaryGap;
+}
+
+int main(void)
+{
+	int integerValue = 1041;
+	int mySolution = solution(integerValue);
+	printf("Found as solution %d \n", mySolution);
+	return 0;
 }
