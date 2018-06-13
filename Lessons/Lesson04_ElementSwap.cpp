@@ -54,7 +54,7 @@ bool swapPossible_Smart(vector<int> &firstVector, vector<int> &secondVector, con
 
 	//Step 3: Store the information of the elements of one of the arrays in an array that counts the presence of each of the elements
 	//--> Use the fact that you know that the element of one array should be swaped with an element equal to elem-diff/2, so this can be easily looked up when the array is converted into a counter array
-	int firstVectCounter[maxValueOfElems] = {0};
+	int firstVectCounter[maxValueOfElems+1] = {0};
 	for(int i = 0; i < vectorSize; ++i)	
 		firstVectCounter[firstVector[i]]++;
 	
