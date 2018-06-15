@@ -86,34 +86,34 @@ ChocolatesByNumbers - Lesson 12
 * There are N chocolates in a circle. Count the number of chocolates you will eat.
 
 CountTriangles - Lesson 15
-* 
+* Count the number of triangles that can be build from a given set of edges.
 
 AbsDistinct - Lesson 15
-* 
+* Compute number of distinct absolute values of sorted array elements.
 
 CountDistinctSlices - Lesson 15
-* 
+* Count the number of distinct slices (containing only unique numbers).
 
 MaxNonOverlappingSegments - Lesson 16
-* 
+* Find a maximal set of non-overlapping segments.
 
 TieRopes - Lesson 16
-* 
+* Tie adjacent ropes to achieve the maximum number of ropes of length >= K.
 
 LongestPassord - Indeed Prime 2015 Challenge
-* 
+* Given a string containing words, find the longest word that satisfies specific conditions.
 
 TennisTournament (Effortless) - Indeed Prime 2016 College Coders Challenge
-* 
+* Given the number of players and available courts, calculate the maximum number of parallel tennis games.
 
 SqlSum (Effortless) - Future Training
-* 
+* Calculate sum of elements.
 
 StrSymmertryPoint - Future Training
-* 
+* Find a symmetry point of a string, if any.
 
 TreeHeight - Future Training
-* 
+* Compute the height of a binary tree.
 
 Respectable level
 -----------------
@@ -142,58 +142,58 @@ CommonPrimeDivisors - Lesson 12
 * Check whether two numbers have the same prime divisors.
 
 Ladder - Lesson 13
-* 
+* Count the number of different ways of climbing to the top of a ladder.
 
 FibFrog - Lesson 13
-* 
+* Count the minimum number of jumps required for a frog to get to the other side of a river.
 
 Nailing Planks - Lesson 14
-* 
+* Count the minimum number of nails that allow a series of planks to be nailed.
 
 MinMaxDivision - Lesson 14
-* 
+* Divide array A into K blocks and minimize the largest sum of any block.
  
 MinAbsSumOfTwo - Lesson 15
-* 
+* Find the minimal absolute value of a sum of two elements.
 
 NumberSolitaire - Lesson 17
-* 
+* In a given array, find the subset of maximal sum in which the distance between consecutive elements is at most 6.
 
 FloodDepth - Indeed Prime 2015 Challenge
-* 
+* Find the maximum dpeth of water in mountains after a huge rainfall.
 
 DwarfsRafting - Indeed Prime 2016 Challenge
-* 
+* Find out how many dwarfs can fit on a raft such that it is balanced when crossing a river.
 
 RectangleBuilderGreaterArea - Indeed Prime 2016 Challenge
-* 
+* Count the distinct rectangle sizes, of area greater than or equal to X, that can be built out of a given set of segments.
 
 SocksLaundering - Indeed Prime 2016 College Coders Challenge
-* 
+* From drawers containing both clean and dirty socks, choose socks to launder in order to obtain the maximum number of clean pairs of socks.
 
 ArrayInversionCount - Future Training
-* 
+* Compute number of inversion in an array.
 
 Ambitious level
 ----------------
 MinAbsSum - Lesson 17
-* 
+* Given array of integers, find the lowest absolute sum of elements.
 
 SlalomSkiing - Indeed Prime 2015 Challenge
-* 
+* Given a sequence, find the longest subsequence that can be decomposed into at most three monotonic parts.
 
 HilbertMaze - Indeed Prime 2016 Challenge
-* 
+* Find the shortest path between two fields in a Hilbert maze.
 
 TreeProduct - Indeed Prime 2016 Challenge
-* 
+* Remove at most two edges from a tree graph to maximize the product of the components' sizes.
 
 DiamondsCount - Indeed Prime 2016 College Coders Challenge
-* 
+* Given points on a plane, count the number of sets of four points that form regular diamonds.
 
 ArrayRecovery - Indeed Prime 2016 College Coders Challenge
-* 
+* Recover a broken array using partial information in another array.
 
 PolygonConcativityIndex - Future Training
-* 
+* Check whether a given polygon in a 2D plane is convex; if not, return the index of a vertex that doesn't belong to the convex hull.
 
